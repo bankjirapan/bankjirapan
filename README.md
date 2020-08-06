@@ -1,5 +1,5 @@
-### Hi there 👋
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21736by57nwl2jbrxcwq6dfcq&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
+### Hello 👋
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bankjirapan&show_icons=true)
 <!--
 **bankjirapan/bankjirapan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
