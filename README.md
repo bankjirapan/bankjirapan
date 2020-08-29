@@ -26,9 +26,9 @@ I'm Jirapan you can call me Bank, I'm a Full Stack Developer. My major was IT-KM
 
 #### -- More Detail --
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bankjirapan&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bankjirapan&count_private=true&show_icons=true&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bankjirapan&layout=compact)](https://github.com/bankjirapan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bankjirapan&layout=compact&hide=html)](https://github.com/bankjirapan)
 
 
 
