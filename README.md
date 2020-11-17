@@ -1,5 +1,5 @@
 <h2>Hello Everyone <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-I'm Jirapan you can call me Bank, I'm a Full Stack Developer. My major was IT-KMUTT, Bangkok Thailand.
+I'm Jirapan you can call me Bank, I'm a Full Stack Developer. I am studying at School of Information Technology, King Mongkut's University of Technology Thonburi with a major in Information Technology.
 <br><br>
 <details>
 <summary>
